@@ -1,0 +1,25 @@
+.gradient-custom {
+  background: rgb(145, 200, 181);
+
+  /* Chrome 10-25, Safari 5.1-6  */
+  background: -webkit-linear-gradient(to bottom right, #f9e45b, #6494cf);
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+  */
+  /* background: linear-gradient(to bottom right, #6494cf); */
+}
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+  font-size: 0.5rem;
+  line-height: 2.1;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+}
+.card-registration .select-arrow {
+  top: 13px;
+}
+
+.heading {
+  margin-left: 99px;
+  margin-bottom: 14px;
+  padding-bottom: 20px;
+}
